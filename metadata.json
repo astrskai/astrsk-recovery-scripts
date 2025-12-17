@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "Recovers missing characters and scenarios from failed v3.5.2 migration",
+  "updatedAt": "2025-01-17T12:00:00Z",
+  "author": "astrsk Team",
+  "changelog": [
+    "Initial release",
+    "Supports character recovery from legacy tables",
+    "Supports scenario recovery from plot_cards",
+    "Schema-aware recovery (works with and without config field)"
+  ]
+}
